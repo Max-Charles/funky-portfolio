@@ -1,3 +1,5 @@
+A fun little splash screen using state management and CSS changes only. Warning! Unnecessarily verbose code done just for fun. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
